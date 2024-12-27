@@ -33,4 +33,3 @@ jobs:
           api_location: "" # No API folder
           output_location: "" # No build output required
           ###### End of Repository/Build Configurations ######
-          skip_deploy_on_missing_secrets: false
